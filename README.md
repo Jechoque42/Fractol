@@ -1,6 +1,6 @@
 # Fractol
 
-Ce projet consiste à créer un petit logiciel d’exploration fractale.
+This project is a small fractal exploration software.
 
 ## Compiling
 
